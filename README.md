@@ -1,4 +1,7 @@
 # 🎵 Spotify Data Analysis Dashboard (Power BI)
+
+  ![Dashboard Preview](https://github.com/cpravin2110/Spotify-Dashboard/blob/c5c79ce78a16065083646ec4562a57c0938316b5/images/spotify%20template.png)
+
 ## 📌 Project Overview
 
 This project presents an interactive Spotify Data Analysis Dashboard built using Power BI to analyze song performance, artist popularity, album trends, and explicit content insights.
@@ -27,105 +30,109 @@ This project demonstrates practical data visualization, DAX calculations, and bu
 
 ⭐ Average Popularity Score: 89.62
 
-📅 Data Covers: 2023 – 2024 releases
 
 ## 📈 Key Dashboard Insights
 
 ### 🎤 Top Performing Artists
 
-Taylor Swift leads with 85+ songs
+✦ Taylor Swift leads with 85+ songs
 
-Travis Scott (30 songs)
+✦ Travis Scott (30 songs)
 
-Drake (27 songs)
+✦ Drake (27 songs)
 
-Bad Bunny (22 songs)
+✦ Bad Bunny (22 songs)
 
-Taylor Swift also has the highest total popularity (~16M combined score).
+✦ Taylor Swift also has the highest total popularity (~16M combined score).
 
 ### 🔥 Most Popular Songs
 
-Top songs by total popularity:
+**✦ Top songs by total popularity:**
 
-I Wanna Be Yours – 51K
+✦ I Wanna Be Yours – 51K
 
-Cruel Summer – 50K
+✦ Cruel Summer – 50K
 
-As It Was – 35K
+✦ As It Was – 35K
 
-One Of The Girls – 34K
+✦ One Of The Girls – 34K
 
 ### 💿 Songs by Album Type
 
-Album Tracks: 562
+✦ Album Tracks: 562
 
-Singles: 269
+✦ Singles: 269
 
-Albums contribute more content compared to singles.
+✦ Albums contribute more content compared to singles.
 
 ### 🚨 Explicit vs Non-Explicit Content
 
-Non-Explicit Songs: 17K
+✦ Non-Explicit Songs: 17K
 
-Explicit Songs: 11K
+✦ Explicit Songs: 11K
 
-Non-explicit tracks dominate the dataset.
+✦ Non-explicit tracks dominate the dataset.
 
 ### 📆 Monthly Popularity Trend
 
-Peak popularity observed around January & February
+✦ Peak popularity observed around January & February
 
-Lowest dip observed around October
+✦ Lowest dip observed around October
 
-Consistent growth trend from mid-year toward year-end
+✦ Consistent growth trend from mid-year toward year-end
 
 ### 🏆 Position #1 Hits by Artist
 
-Top artists with most No.1 hits:
+**✦ Top artists with most No.1 hits:**
 
-Lady Gaga – 77
+✦ Lady Gaga – 77
 
-Jung Kook – 69
+✦ Jung Kook – 69
 
-Sabrina Carpenter – 51
+✦ Sabrina Carpenter – 51
 
-Billie Eilish – 27
+✦ Eslabon Armado – 40
 
 ##📊 Dashboard Pages
 
 ### 1️⃣ Overview Page
+ ![Dashboard Preview](https://github.com/cpravin2110/Spotify-Dashboard/blob/c5c79ce78a16065083646ec4562a57c0938316b5/images/Screenshot%202026-02-23%20154306.png)
 
-KPIs (Songs, Artists, Duration, Popularity)
+● KPIs (Songs, Artists, Duration, Popularity)
 
-Album Type Distribution
+● Album Type Distribution
 
-Explicit vs Non-Explicit Analysis
+● Explicit vs Non-Explicit Analysis
 
-Monthly Popularity Trend
+● Monthly Popularity Trend
 
 ### 2️⃣ Artists Page
+ ![Dashboard Preview](https://github.com/cpravin2110/Spotify-Dashboard/blob/c5c79ce78a16065083646ec4562a57c0938316b5/images/Screenshot%202026-02-23%20154505.png)
 
-Distinct Songs by Artist
 
-Total Popularity by Artist
+● Distinct Songs by Artist
 
-#1 Position Hits per Artist
+● Total Popularity by Artist
 
-Artist-level performance table
+● #1 Position Hits per Artist
+
+● Artist-level performance table
 
 ### 3️⃣ Songs Page
+ ![Dashboard Preview](https://github.com/cpravin2110/Spotify-Dashboard/blob/c5c79ce78a16065083646ec4562a57c0938316b5/images/Screenshot%202026-02-23%20154819.png)
 
-Songs by Popularity
 
-Hits per Song
+● Songs by Popularity
 
-Artist contribution per song
+● Hits per Song
 
-Detailed song-level metrics table
+● Artist contribution per song
+
+● Detailed song-level metrics table
 
 ## 🛠 Tools & Technologies Used
 
-Power BI Desktop
+ Power BI Desktop
 
 DAX (Data Analysis Expressions)
 
@@ -137,28 +144,35 @@ KPI Cards & Custom Theming
 
 ## 📌 Business Value
 
-This dashboard can help:
+**This dashboard can help:**
 
-Identify top-performing artists
+➤ Identify top-performing artists
 
-Track music popularity trends over time
+➤ Track music popularity trends over time
 
-Compare album vs single performance
+➤ Compare album vs single performance
 
-Analyze explicit content distribution
+➤ Analyze explicit content distribution
 
-Support music industry decision-making
+➤ Support music industry decision-making
 
 ## 🚀 What I Learned
 
-Designing visually appealing dark-theme dashboards
+⁘ Designing visually appealing dark-theme dashboards
 
-Creating dynamic KPIs
+⁘ Creating dynamic KPIs
 
-Building DAX measures for popularity aggregation
+⁘ Building DAX measures for popularity aggregation
 
-Implementing interactive filtering and drill-through
+⁘ Implementing interactive filtering and drill-through
 
 ## ✅ Conclusion
 
-This Power BI Spotify Dashboard analyzes 789 songs from 342 artists to uncover insights into artist performance, song popularity, album distribution, and explicit content trends. The analysis shows that album releases and non-explicit songs dominate the platform, while top artists like Taylor Swift and Drake contribute significantly to overall popularity. The dashboard demonstrates how interactive visualizations can transform raw Spotify data into meaningful insights, enabling better understanding of music trends, artist impact, and listener preferences.
+This Power BI Spotify Dashboard analyzes 789 songs from 342 artists to uncover insights into artist performance, song popularity, album distribution, and explicit content trends. The analysis shows that album releases and non-explicit songs dominate the platform, while top artists like Taylor Swift,travis scott and Drake contribute significantly to overall popularity. The dashboard demonstrates how interactive visualizations can transform raw Spotify data into meaningful insights, enabling better understanding of music trends, artist impact, and listener preferences.
+
+
+### 🤝 Connect
+
+If you like this project or want to collaborate, feel free to connect!
+
+📌 LinkedIn:  [LinkedIn](https://www.linkedin.com/in/iampravinchavan/) 
