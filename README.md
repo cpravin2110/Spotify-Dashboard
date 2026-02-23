@@ -1,4 +1,4 @@
-# 🎵 Spotify Data Analysis Dashboard (Power BI)
+# 🎵 Spotify Data Analysis Dashboard | Power BI
 
   ![Dashboard Preview](https://github.com/cpravin2110/Spotify-Dashboard/blob/c5c79ce78a16065083646ec4562a57c0938316b5/images/spotify%20template.png)
 
