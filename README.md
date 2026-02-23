@@ -2,6 +2,8 @@
 
   ![Dashboard Preview](https://github.com/cpravin2110/Spotify-Dashboard/blob/c5c79ce78a16065083646ec4562a57c0938316b5/images/spotify%20template.png)
 
+---
+
 ## 📌 Project Overview
 
 This project presents an interactive Spotify Data Analysis Dashboard built using Power BI to analyze song performance, artist popularity, album trends, and explicit content insights.
@@ -20,6 +22,8 @@ Explicit vs Non-Explicit content distribution
 
 This project demonstrates practical data visualization, DAX calculations, and business insight generation using Power BI.
 
+---
+
 ## 📊 Dataset Summary
 
 🎵 Total Distinct Songs: 789
@@ -29,6 +33,8 @@ This project demonstrates practical data visualization, DAX calculations, and bu
 ⏱ Average Song Duration: 3.28 minutes
 
 ⭐ Average Popularity Score: 89.62
+
+---
 
 
 ## 📈 Key Dashboard Insights
@@ -93,7 +99,9 @@ This project demonstrates practical data visualization, DAX calculations, and bu
 
 ✦ Eslabon Armado – 40
 
-##📊 Dashboard Pages
+---
+
+## 📊 Dashboard Pages
 
 ### 1️⃣ Overview Page
  ![Dashboard Preview](https://github.com/cpravin2110/Spotify-Dashboard/blob/c5c79ce78a16065083646ec4562a57c0938316b5/images/Screenshot%202026-02-23%20154306.png)
@@ -130,6 +138,8 @@ This project demonstrates practical data visualization, DAX calculations, and bu
 
 ● Detailed song-level metrics table
 
+---
+
 ## 🛠 Tools & Technologies Used
 
  Power BI Desktop
@@ -141,6 +151,8 @@ Data Modeling
 Interactive Visualizations
 
 KPI Cards & Custom Theming
+
+---
 
 ## 📌 Business Value
 
@@ -156,6 +168,8 @@ KPI Cards & Custom Theming
 
 ➤ Support music industry decision-making
 
+---
+
 ## 🚀 What I Learned
 
 ⁘ Designing visually appealing dark-theme dashboards
@@ -166,10 +180,13 @@ KPI Cards & Custom Theming
 
 ⁘ Implementing interactive filtering and drill-through
 
+---
+
 ## ✅ Conclusion
 
 This Power BI Spotify Dashboard analyzes 789 songs from 342 artists to uncover insights into artist performance, song popularity, album distribution, and explicit content trends. The analysis shows that album releases and non-explicit songs dominate the platform, while top artists like Taylor Swift,travis scott and Drake contribute significantly to overall popularity. The dashboard demonstrates how interactive visualizations can transform raw Spotify data into meaningful insights, enabling better understanding of music trends, artist impact, and listener preferences.
 
+---
 
 ### 🤝 Connect
 
